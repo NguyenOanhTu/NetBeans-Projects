@@ -1,0 +1,12 @@
+gameobject\Enemy.class
+userinterface\GameScreen.class
+gameobject\EnemiesManager.class
+util\Resource.class
+gameobject\Clouds.class
+gameobject\Clouds$ImageCloud.class
+gameobject\Land$ImageLand.class
+gameobject\Land.class
+util\Animation.class
+gameobject\Cactus.class
+gameobject\MainCharacter.class
+userinterface\GameWindow.class
